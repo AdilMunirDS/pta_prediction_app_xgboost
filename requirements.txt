@@ -23,6 +23,7 @@ narwhals==1.38.1
 numpy==2.2.5
 packaging==24.2
 pandas==2.2.3
+openpyxl==3.0.10  # or the latest version
 pillow==11.2.1
 protobuf==6.30.2
 pyarrow==20.0.0
